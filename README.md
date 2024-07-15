@@ -2,7 +2,7 @@
 - 👀 I’m interested in engineering and programming.
 - 🌱 I’m currently retired I know a little of: html, java script, visual basic, C (++, #). CAD, imaging.
 - 💞️ These days I just work on doing instrutables: [Tim's Instructables](https://www.instructables.com/member/Palingenesis/instructables/)
-- 📫 How to reach me ...
+- 📫 How to reach me pm from Instructables is a good way. I do have a YouTube Chyannel: https://www.youtube.com/@Tims_Projects
 
 <!---
 Palingenesis/Palingenesis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
